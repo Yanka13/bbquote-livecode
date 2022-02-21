@@ -10,3 +10,8 @@ coverage
 pytest
 
 
+# API
+requests
+
+
+
